@@ -4,7 +4,7 @@ description: How to install package
 ---
 
 # Installation
-- [install](#install)
+- [Install](#install)
 
 <a name="install"></a>
 ## Instalation

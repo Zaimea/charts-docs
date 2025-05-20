@@ -4,7 +4,7 @@ description: How to use package
 ---
 
 # Usage
-- [usage](#usage)
+- [Usage](#usage)
 - [More example](#more-example)
 - [Customizing charts](#customizing)
 
