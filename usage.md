@@ -1,6 +1,11 @@
 ---
 title: How to use package
 description: How to use package
+github: https://github.com/zaimea/charts-docs/edit/main/
+sections: 
+    usage : 'Usage'
+    more-example : 'More Example'
+    customizing : 'Customizing'
 ---
 
 # Usage
