@@ -5,7 +5,6 @@ github: https://github.com/zaimea/charts-docs/edit/main/
 sections: 
     install : 'Install'
 ---
----
 
 <a name="installation"></a>
 # Installation
