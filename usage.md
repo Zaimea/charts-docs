@@ -5,15 +5,13 @@ github: https://github.com/zaimea/charts-docs/edit/main/
 sections: 
     usage : 'Usage'
     more-example : 'More Example'
-    customizing : 'Customizing'
+    customizing-charts : 'Customizing'
 ---
 
-# Usage
-- [Usage](#usage)
-- [More example](#more-example)
-- [Customizing charts](#customizing)
+# Charts Usage
 
-<a name="usage"></a>
+[[TOC]]
+
 ## Usage
 
 In your controller add:
@@ -61,7 +59,6 @@ You can use command to make charts
 php artisan make:charts ChartName
 ```
 
-<a name="more-example"></a>
 ## More Example
 
 ```php
@@ -108,7 +105,6 @@ $bar = Charts::barChart()
     ->setXAxis(['January', 'February', 'March', 'April', 'May', 'June']);
 ```
 
-<a name="customizing"></a>
 ## Customizing charts
 
 Change chart colors dynamically
