@@ -2,8 +2,6 @@
 title: How to install package
 description: How to install package
 github: https://github.com/zaimea/charts-docs/edit/main/
-sections: 
-    installation : 'Install'
 ---
 
 # Charts
